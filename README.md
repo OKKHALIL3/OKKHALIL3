@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Lead engineer @ Bayaan (open-source Quran app) · SWE @ Lens(EDA tooling) · TypeScript, Python, React Native · Dual enrolled at Mission & De Anza · CA
+SWE @ Lens(EDA tooling) · Lead engineer @ Bayaan (open-source Quran app) · EDA, Distributed Systems, ML Systems, GPU Inference, Python, TypeScript · Dual enrolled at Mission & De Anza · CA
